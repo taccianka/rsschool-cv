@@ -1,7 +1,7 @@
 # Tatyana Vorona
 ***
 ## Contacs
-* Tel: +375297554675
+* Tel: +375297554675 (MTS)
 * Viber: +375297554675
 * E-mail: tatsiana.vorona@gmail.com
 ***
@@ -10,7 +10,7 @@ Now my goal is education to become a front-end developer.
 
 Like new and try it. Always in motion. Have different hobbies from cross-stitching to firmware mobile phones.
 
-Participate in Local Guides Google program (adding new and editing existing places in my city and not only in my.)
+Participate in Local Guides Google program (adding new and editing existing places in my city and not only in my).
 ## Skills
 * HTML, CSS
 * JavaScript Basics
