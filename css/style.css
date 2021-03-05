@@ -1,0 +1,66 @@
+#wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  width: 900px;
+  font-family: "Quicksand", sans-serif;
+  font-size: 16px;
+}
+
+section {
+  padding: 20px 30px 0;
+  margin: 20px;
+  float: left;
+  max-height: 100%;
+  width: 25%;
+  line-height: 30px;
+  background: #dbe0f5;
+}
+
+article {
+  width: 63%;
+  float: right;
+}
+
+header {
+  padding: 10px;
+  font-family: "RocknRoll One", sans-serif;
+  letter-spacing: 4px;
+  color: white;
+  text-align: center;
+  background: #535353;
+}
+
+#image {
+  display: block;
+  height: 130px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 100%;
+  box-shadow: 0 0 7px #666;
+}
+
+.headers {
+  font-family: "RocknRoll One", sans-serif;
+  font-size: 20px;
+  background: #dbe0f5;
+}
+
+.headers.article {
+  text-align: center;
+}
+
+.headers.aside {
+  text-align: left;
+}
+
+ul {
+  margin-left: 0px;
+  padding-left: 0px;
+  list-style-type: none;
+}
+
+ul.list_circle {
+  list-style-position: inside;
+  list-style-type: circle;
+}
