@@ -42,6 +42,8 @@ Faculty of Computer Systems and Networks, Computing machines, systems and networ
 * Html, CSS, JS – self-education
 ## Languages
 English — A2 – understand technical literature
+
 Russian
+
 Belorussian
 
